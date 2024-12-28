@@ -1,0 +1,1 @@
+# Simple line command app to control if all the rows and all the columns have 0-9 numbers not repeated 
